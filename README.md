@@ -49,7 +49,7 @@ Currently focused on **[Flatfolks](https://github.com/brintodas/Flatfolks)** —
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brintodas&theme=minimal&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+  <img src="https://ghchart.rshah.org/6366f1/brintodas" alt="Brinto's Contribution Chart" width="100%" />
 </p>
 
 <p align="center">
