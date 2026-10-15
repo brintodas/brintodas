@@ -68,7 +68,7 @@ Currently focused on **[Flatfolks](https://github.com/brintodas/Flatfolks)** —
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=brintodas&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="Brinto's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=brintodas&show_icons=true&theme=default&hide_border=true" alt="Brinto's GitHub Stats" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brintodas&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
