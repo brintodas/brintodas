@@ -48,20 +48,13 @@ Currently focused on **[Flatfolks](https://github.com/brintodas/Flatfolks)** —
 
 ## GitHub stats
 
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/brintodas/brintodas/output/github-snake-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brintodas/brintodas/output/github-snake.svg" />
-        <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/brintodas/brintodas/output/github-snake.svg" />
-      </picture>
-    </td>
-    <td valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=brintodas&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brintodas&theme=minimal&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=brintodas&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
 
 <br/>
 
