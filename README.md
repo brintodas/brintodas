@@ -1,87 +1,45 @@
-<div align="center">
+<img src="./assets/header.svg" width="100%" alt="Brinto Das, developer and builder" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Brinto%20Das&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Always%20Learning&descAlignY=58&descSize=20" width="100%" alt="header" />
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=620&lines=Hi+%F0%9F%91%8B+I'm+Brinto;I+build+things+for+the+web;Currently+working+on+Flatfolks;Turning+ideas+into+code" alt="Typing animation" /></a>
+<p align="center">
+  I build fast, clean web apps, from first sketch to deployed.<br/>
+  Currently shaping <a href="https://github.com/brintodas/Flatfolks"><b>Flatfolks</b></a>.
+</p>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=brintodas&color=00f7ff&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
-<img src="https://img.shields.io/github/followers/brintodas?style=for-the-badge&logo=github&color=203a43" alt="followers" />
+<h3 align="center">Toolbox</h3>
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
+</p>
 
----
+<br/>
 
-##  About Me
+<h3 align="center">Activity</h3>
 
-- 🔭 Currently building **[Flatfolks](https://github.com/brintodas/Flatfolks)**
-- 🌱 Learning: **YOUR CURRENT FOCUS (e.g. TypeScript, React, system design)**
-- 🤝 Open to collaborating on **WHAT KIND OF PROJECTS**
-- 📍 Based in **Bangladesh** 🇧🇩
-- ⚡ Fun fact: **SOMETHING MEMORABLE ABOUT YOU**
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brintodas/brintodas/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brintodas/brintodas/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/brintodas/brintodas/output/github-snake.svg" />
+  </picture>
+</p>
 
----
+<br/>
 
-##  Tech Stack
+<h3 align="center">Let's connect</h3>
 
-<div align="center">
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=7dd3fc" alt="LinkedIn" /></a>
+  <a href="mailto:YOUR@EMAIL.COM"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=f0abfc" alt="Email" /></a>
+  <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=c4b5fd" alt="Portfolio" /></a>
+</p>
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,mongodb,git,github,vscode,figma&theme=dark" alt="tech stack" />
-
-</div>
-
----
-
-##  GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=brintodas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brintodas&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-
-<img src="https://streak-stats.demolab.com?user=brintodas&theme=tokyonight&hide_border=true" alt="streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=brintodas&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophies" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brintodas/brintodas/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brintodas/brintodas/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/brintodas/brintodas/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
-
-##  Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**Flatfolks**](https://github.com/brintodas/Flatfolks) | ONE LINE ABOUT WHAT IT DOES | JavaScript |
-| **Project 2** | Coming soon | — |
-
----
-
-##  Let's Connect
-
-<div align="center">
-
-<a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:YOUR@EMAIL.COM"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://twitter.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-<a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
-
-</div>
+<img src="./assets/footer.svg" width="100%" alt="Thanks for stopping by" />
