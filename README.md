@@ -1,97 +1,106 @@
-<img src="./assets/header.svg" width="100%" alt="Brinto Das — Developer & Builder" />
+<img src="./assets/header.svg" width="100%" alt="Brinto Das — CS Student & Web Developer" />
+
+<br/>
+<br/>
+
+## About me
+
+I'm a Computer Science student who learns by building real things.  
+Currently focused on **[Flatfolks](https://github.com/brintodas/Flatfolks)** — a flat-sharing & roommate finder platform — and levelling up my full-stack skills every day.
+
+- 🎓 &nbsp; Studying **Computer Science & Engineering**
+- 🚀 &nbsp; Building **[Flatfolks](https://github.com/brintodas/Flatfolks)** — find your perfect flatmate
+- 🌱 &nbsp; Learning: **TypeScript · Next.js · PostgreSQL · Docker**
+- 💬 &nbsp; Ask me about **React, Node.js, or web apps in general**
+- 📬 &nbsp; Reach me at **[brintodas.cse@gmail.com](mailto:brintodas.cse@gmail.com)**
 
 <br/>
 
-<p align="center">
-  <a href="https://github.com/brintodas/Flatfolks"><img src="https://img.shields.io/badge/▶%20FLATFOLKS-0f172a?style=for-the-badge&logoColor=white&color=0f172a" alt="Flatfolks" /></a>
-&nbsp;
-  <a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=7dd3fc" alt="LinkedIn" /></a>
-&nbsp;
-  <a href="mailto:YOUR@EMAIL.COM"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=f0abfc" alt="Email" /></a>
-&nbsp;
-  <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=c4b5fd" alt="Portfolio" /></a>
-</p>
+## Tech stack
+
+#### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=1e293b)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+#### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=1e293b)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+#### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+
+#### Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 <br/>
 
-<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="55%" valign="top">
+## GitHub stats
 
-```typescript
-const brinto = {
-  role     : "Full-Stack Web Developer",
-  location : "🌏 Building from everywhere",
-  current  : "Flatfolks — rethinking community",
-  focus    : ["React", "Node.js", "Clean UX"],
-  mindset  : "Ship it. Iterate. Make it great.",
-  available: true,
-};
-```
-
-</td>
-<td width="5%"></td>
-<td width="40%" valign="top">
-
-```
-⚡  Fast by default
-🧱  Clean architecture
-🎯  Pixel-perfect UI
-🚀  Deployed & done
-🔁  Always iterating
-```
-
-</td>
-</tr>
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/brintodas/brintodas/output/github-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brintodas/brintodas/output/github-snake.svg" />
+        <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/brintodas/brintodas/output/github-snake.svg" />
+      </picture>
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=brintodas&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+    </td>
+  </tr>
 </table>
 
 <br/>
 
----
-
-<h3 align="center">⚙ &nbsp; Toolbox</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=brintodas&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="Brinto's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brintodas&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
----
+## Featured project
 
-<h3 align="center">📡 &nbsp; GitHub Activity</h3>
+<a href="https://github.com/brintodas/Flatfolks">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=brintodas&repo=Flatfolks&theme=default&hide_border=true&description_lines_count=2" alt="Flatfolks" />
+</a>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/brintodas/brintodas/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brintodas/brintodas/output/github-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/brintodas/brintodas/output/github-snake.svg" />
-  </picture>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=brintodas&theme=tokyonight&hide_border=true&background=0f172a&ring=818cf8&fire=c084fc&currStreakLabel=38bdf8&sideLabels=64748b&dates=64748b" alt="GitHub Streak" />
-</p>
+> **Flatfolks** — A flat-sharing and roommate finder platform. Find compatible flatmates, list your space, and make moving in easier.
 
 <br/>
 
----
+## Let's connect
 
-<h3 align="center">🚀 &nbsp; Featured</h3>
+<a href="https://linkedin.com/in/brinto-das"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+&nbsp;
+<a href="mailto:brintodas.cse@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+&nbsp;
+<a href="https://github.com/brintodas"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 
-<p align="center">
-  <a href="https://github.com/brintodas/Flatfolks">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=brintodas&repo=Flatfolks&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=818cf8&icon_color=38bdf8&text_color=94a3b8" alt="Flatfolks" />
-  </a>
-</p>
+<br/>
+<br/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=brintodas&label=Profile+views&color=6366f1&style=flat-square)
 
 <br/>
 
-<img src="./assets/footer.svg" width="100%" alt="Let's build something great together" />
+<img src="./assets/footer.svg" width="100%" alt="Thanks for stopping by" />
